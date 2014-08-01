@@ -1,3 +1,3 @@
 <?php
 
-phpinfo();
+require(dirname(__FILE__) , '/../include/int.inc.php');
